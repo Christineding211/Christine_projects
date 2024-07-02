@@ -40,8 +40,11 @@ Moderate balance, low cash advances. Make purchases frequently but with smaller 
 Highest balance with highest credit limit makes high-value purchases. In addition, they tend to pay their balance in full. These can be seeming as high-value customers.
 
 ## Business Strategies :
-### Cluster 0: Offer incentives for making more purchases. Encourage the use of other financial products besides cash advances.
+### Cluster 0: 
+Offer incentives for making more purchases. Encourage the use of other financial products besides cash advances.
 
-### Cluster 1: Offer promotions or discounts to increase spending. Provide personalized recommendations and rewards for frequent purchases.
+### Cluster 1: 
+Offer promotions or discounts to increase spending. Provide personalized recommendations and rewards for frequent purchases.
 
-### Cluster 2: Offer premium services and Introduce high-end financial products to retain these high-value customers.
+### Cluster 2: 
+Offer premium services and Introduce high-end financial products to retain these high-value customers.
