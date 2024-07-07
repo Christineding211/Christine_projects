@@ -13,6 +13,8 @@
 1. Code (Python): [Retail Sales Prediction Notebook](https://github.com/Christineding211/Christine_projects/blob/c7e2dbca2665d27bfc956c5bebc0e10d0eff0cf1/Sales%20Prediction%20in%20retail%20.ipynb)
 2. Analyse and Sales Prediction Process: [Data Analysis of Sales Prediction](https://github.com/Christineding211/Christine_projects/blob/860d7a85ad38ef071e542db579de311f41f63f9b/Analysis%20of%20Sales%20Prediction%20Project.md)
 
-### Covid Death Prediction Project + Visualisation
-1. Code (R): [Covid Death Prediction Notebook](https://github.com/Christineding211/Christine_projects/blob/4031935468e071a5bd853b5aafb4df99770fc859/Covid_Death_Prediction_models.R) (Compare features for better prediction)
+### COVID-19 Mortality Prediction Analysis + Visualisation
+Code (R): [COVID-19 Mortality Notebook](https://github.com/Christineding211/Christine_projects/blob/4031935468e071a5bd853b5aafb4df99770fc859/Covid_Death_Prediction_models.R) (Compare features for better prediction)
    
+### Text Mining for News Headline Analysis
+Code (R): [Textmining on news title Notebook](https://github.com/Christineding211/Christine_projects/blob/9397ca78e515c72b8c684f5b7cfa468ee7200d11/Textmining%20on%20news%20title.R) (Analyse news title + Word Cloud Visualisation)
