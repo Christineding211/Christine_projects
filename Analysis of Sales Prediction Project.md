@@ -31,13 +31,13 @@
 3. Check missing values : Find the pattern of missing values (when 'promo2' is zero, 'promo2SinceWeek','Promo2SinceYear', and 'PromoInterval' information also set to zero as well), therefore fill these columns with 0. Additionally,there are 3 rows with missin values in 'Competition Distance'column, fill with average values.
 
 
-4.  Plot in histogram to Analyse the info: 
+4.  Plot in histogram to Analyse the info:
 
-   A.   CompetitionDistance: right-skewed distribution, indicating most stores have competitors located at a short distance (less than 10,000 meters)
-  
-   B.   CompetitionOpenSinceMonth: significant number of competitors opened in the earlier months of the year (particularly January)
-
-   C.   There is a concentration of competitor openings and promotions  in the year 2000
+    A. CompetitionDistance: right-skewed distribution, indicating most stores have competitors located at a short distance (less than 10,000 meters)
+    
+    B. CompetitionOpenSinceMonth: significant number of competitors opened in the earlier months of the year (particularly January)
+    
+    C. There is a concentration of competitor openings and promotions  in the year 2000
 
 ### Merge the two clened dataset
 
