@@ -8,3 +8,7 @@
 ### Cyclitic Bike Usage Pattern Analysis
 1. Code (R & Excel): [Cyclitic Bike Usage Pattern Analysis Notebook](https://github.com/Christineding211/Christine_projects/blob/2b98473d45a403db865b9647cf6306a9eaaed62f/Cyclitic%20Bike%20Usage%20Pattern%20Project.Rmd)
 2. Analysis and Business Insights: [Analysis & Insights of Cyclitic Bike Usage Patterns](https://github.com/Christineding211/Christine_projects/blob/ba20086497e81a56645984afa39d8caf75574309/Analysis%20%26%20Insights%20of%20Cyclitic%20Bike%20Usage%20Patterns.md)
+
+### Retail Sales Prediction Project
+1. Code (Python): [Retail Sales Prediction Notebook]()
+2. Analyse and Sales Prediction Process: [Data Analysis of Sales Prediction](https://github.com/Christineding211/Christine_projects/blob/860d7a85ad38ef071e542db579de311f41f63f9b/Analysis%20of%20Sales%20Prediction%20Project.md)
