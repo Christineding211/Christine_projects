@@ -10,13 +10,13 @@
 
 4. Plot in histogram to Analyse the info: 
 
-  A. The Sales feature is right-skewed, This suggests that higher sales are less frequent, and the majority of sales are relatively low.
+    A.  The Sales feature is right-skewed, This suggests that higher sales are less frequent, and the majority of sales are relatively low.
    
-  B. Customers feature is also right-skewed, indicating that most stores have a smaller number of customers on most days, with fewer stores of high customer counts.
+    B.  Customers feature is also right-skewed, indicating that most stores have a smaller number of customers on most days, with fewer stores of high customer counts.
    
-  C. The Promo feature shows promotions are not run on all days, but they are still quite frequent.
+    C.  The Promo feature shows promotions are not run on all days, but they are still quite frequent.
    
-  D. The SchoolHoliday feature shows that there are fewer school holidays than regular days in the dataset.
+    D.  The SchoolHoliday feature shows that there are fewer school holidays than regular days in the dataset.
 
 5. Focus only on the opened stores provides a more accurate picture of sales and customer trends and evaluate the impact of promotions on sales and customers
 
@@ -33,11 +33,11 @@
 
 4.  Plot in histogram to Analyse the info: 
 
-  A. CompetitionDistance: right-skewed distribution, indicating most stores have competitors located at a short distance (less than 10,000 meters)
+   A.   CompetitionDistance: right-skewed distribution, indicating most stores have competitors located at a short distance (less than 10,000 meters)
   
-  B. CompetitionOpenSinceMonth: significant number of competitors opened in the earlier months of the year (particularly January)
+   B.   CompetitionOpenSinceMonth: significant number of competitors opened in the earlier months of the year (particularly January)
 
-  C. There is a concentration of competitor openings and promotions  in the year 2000
+   C.   There is a concentration of competitor openings and promotions  in the year 2000
 
 ### Merge the two clened dataset
 
