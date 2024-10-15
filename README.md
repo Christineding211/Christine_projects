@@ -22,4 +22,5 @@ Code (R): [COVID-19 Mortality Notebook](https://github.com/Christineding211/Chri
 Code (R): [Textmining on news title Notebook](https://github.com/Christineding211/Christine_projects/blob/9397ca78e515c72b8c684f5b7cfa468ee7200d11/Textmining%20on%20news%20title.R) (Analyse news title + Word Cloud Visualisation)
 
 ## Power BI Portfolio
-PDF : [PDF Portfolio](https://drive.google.com/file/d/17Dhz8MB2Cojco-ucsgjdOxOcMUL6_ZyV/view?usp=sharing)
+PDF : [PDF Dashboards](https://drive.google.com/file/d/17Dhz8MB2Cojco-ucsgjdOxOcMUL6_ZyV/view?usp=sharing)
+Files: [Power BI Portfolio Projects](https://drive.google.com/drive/folders/1Q04fe2tU0VerFk2iiwt-0Cz805sdnXl5?usp=sharing)
