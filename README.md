@@ -16,12 +16,15 @@
 2. Code (Python): [Retail Sales Prediction Notebook](https://github.com/Christineding211/Christine_projects/blob/c7e2dbca2665d27bfc956c5bebc0e10d0eff0cf1/Sales%20Prediction%20in%20retail%20.ipynb)
 
 ## Power BI Portfolio
-PDF : [PDF Dashboards](https://drive.google.com/file/d/17Dhz8MB2Cojco-ucsgjdOxOcMUL6_ZyV/view?usp=sharing)
 
-Files: [Power BI Portfolio Projects](https://drive.google.com/drive/folders/1Q04fe2tU0VerFk2iiwt-0Cz805sdnXl5?usp=sharing)
+[PDF Dashboards](https://drive.google.com/file/d/17Dhz8MB2Cojco-ucsgjdOxOcMUL6_ZyV/view?usp=sharing)
+
 ## Bank Loan Data Analysis (SQL + Tableau)
-[Bank Loan Data Analysis Porject](https://github.com/Christineding211/Christine_projects/blob/b94e065cad5acbe17463395339dcfec26a9b4115/Bank_Loan_Analysis.md)
 
+[Bank Loan Data Analysis Dashboard](https://github.com/Christineding211/Christine_projects/blob/b94e065cad5acbe17463395339dcfec26a9b4115/Bank_Loan_Analysis.md)
+
+
+**Power BI, Tableau Files**: [Google Drive Link](https://drive.google.com/drive/folders/1Q04fe2tU0VerFk2iiwt-0Cz805sdnXl5?usp=sharing)
 
 ### COVID-19 Mortality Prediction Analysis + Visualisation
 Code (R): [COVID-19 Mortality Notebook](https://github.com/Christineding211/Christine_projects/blob/4031935468e071a5bd853b5aafb4df99770fc859/Covid_Death_Prediction_models.R) (Compare features for better prediction)
