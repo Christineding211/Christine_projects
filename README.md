@@ -14,12 +14,12 @@
 
 1. Analyse and Sales Prediction Process: [Data Analysis of Sales Prediction](https://github.com/Christineding211/Christine_projects/blob/860d7a85ad38ef071e542db579de311f41f63f9b/Analysis%20of%20Sales%20Prediction%20Project.md)
 2. Code (Python): [Retail Sales Prediction Notebook](https://github.com/Christineding211/Christine_projects/blob/c7e2dbca2665d27bfc956c5bebc0e10d0eff0cf1/Sales%20Prediction%20in%20retail%20.ipynb)
-
-## Power BI Portfolio
+   
+### Power BI Portfolio
 
 [PDF Dashboards](https://drive.google.com/file/d/17Dhz8MB2Cojco-ucsgjdOxOcMUL6_ZyV/view?usp=sharing)
 
-## Bank Loan Data Analysis (SQL + Tableau)
+### Bank Loan Data Analysis (SQL + Tableau)
 
 [Bank Loan Data Analysis Dashboard](https://github.com/Christineding211/Christine_projects/blob/b94e065cad5acbe17463395339dcfec26a9b4115/Bank_Loan_Analysis.md)
 
